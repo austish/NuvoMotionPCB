@@ -3743,7 +3743,7 @@
   )
 
   (symbol (lib_id "Regulator_Linear:AMS1117-1.8") (at 242.57 250.19 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 61c319b4-4f3b-4989-bc96-0734df6a60e3)
     (property "Reference" "U5" (at 242.57 243.84 0)
       (effects (font (size 1.27 1.27)))
@@ -3757,7 +3757,7 @@
     (property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf" (at 245.11 256.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C347220" (at 242.57 250.19 0)
+    (property "LCSC" "C347220" (at 251.46 257.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2ef29b89-c710-4048-88da-58d3ed22f932))
